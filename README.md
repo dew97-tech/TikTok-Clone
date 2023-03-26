@@ -2,6 +2,9 @@
 
 This is a web application built with React that aims to replicate the functionality of the popular social media app, TikTok. Users can browse videos, like and comment on them, and create their own videos to share.
 
+Image : ![Screenshot](https://user-images.githubusercontent.com/78031810/227789007-2dcb39b4-3198-4d9b-9e02-42d709d7aa9a.png)
+
+
 ## Features
 --> The TikTok clone includes the following features:
 
