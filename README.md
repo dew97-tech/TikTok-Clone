@@ -32,6 +32,6 @@ Once the development server has started, navigate to `localhost:3000` in your we
 
 
 
-##Credits
+## Credits
 
 This project was developed by David Dew Mallick as part of a course on codedamn. Special thanks to codedamn for providing such an amazing platform for learning programming!
